@@ -7,3 +7,15 @@
   --bulma-success-h: 229deg;
   --bulma-danger-l: 44%;
 }
+
+.text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+}
